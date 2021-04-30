@@ -1,0 +1,24 @@
+body {
+	background-color: #c3c0bc;
+	width: 900px;
+	margin: auto;
+}
+h1{
+	color: white;
+	text-align: center;
+	font-family: verdana;
+	background-color: #013243;
+}
+table {
+	font-family: helvetica;
+	border-style: dashed;
+	border-radius: 15px;
+}
+p {
+	font-family: tisa;
+	font-size: 18px;
+	text-align: justify;
+}
+.a {
+	background-color: darkgray;
+}
